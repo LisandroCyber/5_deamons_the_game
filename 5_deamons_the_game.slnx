@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="5_deamons_the_game/5_deamons_the_game.vcxproj" Id="15ec2081-2d49-443a-9aca-9a5ae4cfa620" />
+</Solution>
